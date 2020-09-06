@@ -1,7 +1,22 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.background": "#3C2A05",
-        "titleBar.activeBackground": "#553B06",
-        "titleBar.activeForeground": "#FEFAF1"
-    }
+        "activityBar.background": "#3c2a05",
+        "titleBar.activeBackground": "#0d0901",
+        "titleBar.activeForeground": "#e7e7e7",
+        "activityBar.activeBackground": "#3c2a05",
+        "activityBar.activeBorder": "#0a7652",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#0a7652",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#0d0901",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#3c2a05",
+        "titleBar.inactiveBackground": "#0d090199",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "cSpell.words": [
+        "Signatra"
+    ],
+    "peacock.color": "#0d0901"
 }
