@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055663711946",
+    "firebase_url": "https://berbedi-1fc4b.firebaseio.com",
+    "project_id": "berbedi-1fc4b",
+    "storage_bucket": "berbedi-1fc4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055663711946:android:c4b5d1963fb7379b387633",
+        "android_client_info": {
+          "package_name": "com.example.berbedi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055663711946-7epm9frnkcvprvol1vq6jlc4rbh5s12o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.berbedi",
+            "certificate_hash": "5b1511360771863ded5a56bf183160404057ffbe"
+          }
+        },
+        {
+          "client_id": "1055663711946-gutjfipmfve9hjuo2db3vfa9gvqbvtil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1q1BmDls6eoNAt4fYHvYacrKSdpdCOWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055663711946-gutjfipmfve9hjuo2db3vfa9gvqbvtil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
